@@ -1,0 +1,16 @@
+C:\Users\Alex\Desktop\Projects\AlgorythmParentheses\AlgorythmParentheses\bin\Debug\net5.0\AlgorythmParentheses.exe
+C:\Users\Alex\Desktop\Projects\AlgorythmParentheses\AlgorythmParentheses\bin\Debug\net5.0\AlgorythmParentheses.deps.json
+C:\Users\Alex\Desktop\Projects\AlgorythmParentheses\AlgorythmParentheses\bin\Debug\net5.0\AlgorythmParentheses.runtimeconfig.json
+C:\Users\Alex\Desktop\Projects\AlgorythmParentheses\AlgorythmParentheses\bin\Debug\net5.0\AlgorythmParentheses.runtimeconfig.dev.json
+C:\Users\Alex\Desktop\Projects\AlgorythmParentheses\AlgorythmParentheses\bin\Debug\net5.0\AlgorythmParentheses.dll
+C:\Users\Alex\Desktop\Projects\AlgorythmParentheses\AlgorythmParentheses\bin\Debug\net5.0\AlgorythmParentheses.pdb
+C:\Users\Alex\Desktop\Projects\AlgorythmParentheses\AlgorythmParentheses\obj\Debug\net5.0\AlgorythmParentheses.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\Projects\AlgorythmParentheses\AlgorythmParentheses\obj\Debug\net5.0\AlgorythmParentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\Projects\AlgorythmParentheses\AlgorythmParentheses\obj\Debug\net5.0\AlgorythmParentheses.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Projects\AlgorythmParentheses\AlgorythmParentheses\obj\Debug\net5.0\AlgorythmParentheses.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Projects\AlgorythmParentheses\AlgorythmParentheses\obj\Debug\net5.0\AlgorythmParentheses.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Projects\AlgorythmParentheses\AlgorythmParentheses\obj\Debug\net5.0\AlgorythmParentheses.dll
+C:\Users\Alex\Desktop\Projects\AlgorythmParentheses\AlgorythmParentheses\obj\Debug\net5.0\refint\AlgorythmParentheses.dll
+C:\Users\Alex\Desktop\Projects\AlgorythmParentheses\AlgorythmParentheses\obj\Debug\net5.0\AlgorythmParentheses.pdb
+C:\Users\Alex\Desktop\Projects\AlgorythmParentheses\AlgorythmParentheses\obj\Debug\net5.0\AlgorythmParentheses.genruntimeconfig.cache
+C:\Users\Alex\Desktop\Projects\AlgorythmParentheses\AlgorythmParentheses\obj\Debug\net5.0\ref\AlgorythmParentheses.dll
